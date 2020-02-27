@@ -1,0 +1,2 @@
+defmodule CinemaSeating do
+end
